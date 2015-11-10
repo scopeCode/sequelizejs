@@ -14,7 +14,7 @@ var config ={
   password:'root',
   options:{
     pool: {
-      max: 10,
+      max: 100,
       min: 0,
       idle: 10000
     },
